@@ -20,6 +20,9 @@ joblib = "^1.2.0"
 statsmodels = "^0.13.5"
 scipy = "1.8.1"
 latex = "^0.7.0"
+torch = "^1.13.1"
+torchvision = "^0.14.1"
+torchaudio = "^0.13.1"
 
 
 [build-system]
